@@ -3,16 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\sudzu\\source\\repos\\WisejWebPageApplication1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DC53EF0D-D7EA-4ED8-AEFA-E01CE9E4046F}|WisejWebPageApplication1.csproj|C:\\Users\\sudzu\\source\\repos\\WisejWebPageApplication1\\page1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{DC53EF0D-D7EA-4ED8-AEFA-E01CE9E4046F}|WisejWebPageApplication1.csproj|solutionrelative:page1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{DC53EF0D-D7EA-4ED8-AEFA-E01CE9E4046F}|WisejWebPageApplication1.csproj|c:\\users\\sudzu\\source\\repos\\wisejwebpageapplication1\\page1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DC53EF0D-D7EA-4ED8-AEFA-E01CE9E4046F}|WisejWebPageApplication1.csproj|solutionrelative:page1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DC53EF0D-D7EA-4ED8-AEFA-E01CE9E4046F}|WisejWebPageApplication1.csproj|c:\\users\\sudzu\\source\\repos\\wisejwebpageapplication1\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{DC53EF0D-D7EA-4ED8-AEFA-E01CE9E4046F}|WisejWebPageApplication1.csproj|solutionrelative:web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{DC53EF0D-D7EA-4ED8-AEFA-E01CE9E4046F}|WisejWebPageApplication1.csproj|c:\\users\\sudzu\\source\\repos\\wisejwebpageapplication1\\page1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DC53EF0D-D7EA-4ED8-AEFA-E01CE9E4046F}|WisejWebPageApplication1.csproj|solutionrelative:page1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DC53EF0D-D7EA-4ED8-AEFA-E01CE9E4046F}|WisejWebPageApplication1.csproj|c:\\users\\sudzu\\source\\repos\\wisejwebpageapplication1\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -23,12 +19,16 @@
       "RelativeMoniker": "D:0:0:{DC53EF0D-D7EA-4ED8-AEFA-E01CE9E4046F}|WisejWebPageApplication1.csproj|solutionrelative:organization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DC53EF0D-D7EA-4ED8-AEFA-E01CE9E4046F}|WisejWebPageApplication1.csproj|c:\\users\\sudzu\\source\\repos\\wisejwebpageapplication1\\default.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DC53EF0D-D7EA-4ED8-AEFA-E01CE9E4046F}|WisejWebPageApplication1.csproj|solutionrelative:default.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{DC53EF0D-D7EA-4ED8-AEFA-E01CE9E4046F}|WisejWebPageApplication1.csproj|c:\\users\\sudzu\\source\\repos\\wisejwebpageapplication1\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{DC53EF0D-D7EA-4ED8-AEFA-E01CE9E4046F}|WisejWebPageApplication1.csproj|solutionrelative:web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DC53EF0D-D7EA-4ED8-AEFA-E01CE9E4046F}|WisejWebPageApplication1.csproj|c:\\users\\sudzu\\source\\repos\\wisejwebpageapplication1\\db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DC53EF0D-D7EA-4ED8-AEFA-E01CE9E4046F}|WisejWebPageApplication1.csproj|solutionrelative:db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC53EF0D-D7EA-4ED8-AEFA-E01CE9E4046F}|WisejWebPageApplication1.csproj|c:\\users\\sudzu\\source\\repos\\wisejwebpageapplication1\\default.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DC53EF0D-D7EA-4ED8-AEFA-E01CE9E4046F}|WisejWebPageApplication1.csproj|solutionrelative:default.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,11 +38,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Page1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\sudzu\\source\\repos\\WisejWebPageApplication1\\Page1.cs",
               "RelativeDocumentMoniker": "Page1.cs",
@@ -54,7 +54,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Default.html",
               "DocumentMoniker": "C:\\Users\\sudzu\\source\\repos\\WisejWebPageApplication1\\Default.html",
               "RelativeDocumentMoniker": "Default.html",
@@ -66,20 +66,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Page1.cs",
               "DocumentMoniker": "C:\\Users\\sudzu\\source\\repos\\WisejWebPageApplication1\\Page1.cs",
               "RelativeDocumentMoniker": "Page1.cs",
               "ToolTip": "C:\\Users\\sudzu\\source\\repos\\WisejWebPageApplication1\\Page1.cs",
               "RelativeToolTip": "Page1.cs",
-              "ViewState": "AQIAAE8AAAAAAAAAAAAnwG4AAABOAAAA",
+              "ViewState": "AQIAAOEAAAAAAAAAAAAAAP8AAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-22T22:14:32.928Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Organization.cs",
               "DocumentMoniker": "C:\\Users\\sudzu\\source\\repos\\WisejWebPageApplication1\\Organization.cs",
               "RelativeDocumentMoniker": "Organization.cs",
@@ -87,11 +87,12 @@
               "RelativeToolTip": "Organization.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-22T22:55:44.032Z"
+              "WhenOpened": "2024-11-22T22:55:44.032Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Staff.cs",
               "DocumentMoniker": "C:\\Users\\sudzu\\source\\repos\\WisejWebPageApplication1\\Staff.cs",
               "RelativeDocumentMoniker": "Staff.cs",
@@ -104,7 +105,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "DB.cs",
               "DocumentMoniker": "C:\\Users\\sudzu\\source\\repos\\WisejWebPageApplication1\\DB.cs",
               "RelativeDocumentMoniker": "DB.cs",
@@ -112,11 +113,12 @@
               "RelativeToolTip": "DB.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-22T22:24:07.86Z"
+              "WhenOpened": "2024-11-22T22:24:07.86Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Web.config",
               "DocumentMoniker": "C:\\Users\\sudzu\\source\\repos\\WisejWebPageApplication1\\Web.config",
               "RelativeDocumentMoniker": "Web.config",

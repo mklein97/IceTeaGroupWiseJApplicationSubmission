@@ -64,6 +64,7 @@
             // OrganizationsView
             // 
             this.OrganizationsView.AllowUserToAddRows = true;
+            this.OrganizationsView.AllowUserToDeleteRows = true;
             this.OrganizationsView.AutoSize = true;
             this.OrganizationsView.AutoSizeColumnsMode = Wisej.Web.DataGridViewAutoSizeColumnsMode.AllCells;
             this.OrganizationsView.AutoSizeRowsMode = Wisej.Web.DataGridViewAutoSizeRowsMode.AllCells;
@@ -301,6 +302,7 @@
             // StaffView
             // 
             this.StaffView.AllowUserToAddRows = true;
+            this.StaffView.AllowUserToDeleteRows = true;
             this.StaffView.AutoSize = true;
             this.StaffView.AutoSizeColumnsMode = Wisej.Web.DataGridViewAutoSizeColumnsMode.AllCells;
             this.StaffView.AutoSizeRowsMode = Wisej.Web.DataGridViewAutoSizeRowsMode.AllCells;

@@ -70,3 +70,4 @@ C:\Users\sudzu\source\repos\WisejWebPageApplication1\obj\Debug\net8.0\WisejWebPa
 C:\Users\sudzu\source\repos\WisejWebPageApplication1\obj\Debug\net8.0\WisejWebPageApplication1.genruntimeconfig.cache
 C:\Users\sudzu\source\repos\WisejWebPageApplication1\obj\Debug\net8.0\ref\WisejWebPageApplication1.dll
 C:\Users\sudzu\source\repos\WisejWebPageApplication1\obj\Debug\net8.0\WisejWebPageApplication1.Properties.Resources.resources
+C:\Users\sudzu\source\repos\WisejWebPageApplication1\obj\Debug\net8.0\WisejWebPageApplication1.sourcelink.json

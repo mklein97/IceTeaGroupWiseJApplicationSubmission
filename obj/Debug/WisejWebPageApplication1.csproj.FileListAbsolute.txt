@@ -25,3 +25,4 @@ C:\Users\sudzu\source\repos\WisejWebPageApplication1\obj\Debug\WisejWeb.FD1B5E05
 C:\Users\sudzu\source\repos\WisejWebPageApplication1\obj\Debug\WisejWebPageApplication1.dll
 C:\Users\sudzu\source\repos\WisejWebPageApplication1\obj\Debug\WisejWebPageApplication1.pdb
 C:\Users\sudzu\source\repos\WisejWebPageApplication1\obj\Debug\WisejWebPageApplication1.Properties.Resources.resources
+C:\Users\sudzu\source\repos\WisejWebPageApplication1\obj\Debug\WisejWebPageApplication1.sourcelink.json
